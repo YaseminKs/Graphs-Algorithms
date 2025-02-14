@@ -1,3 +1,5 @@
+// Parallel Adjacency Matrix Initialization
+
 #include <cuda_runtime.h>
 #include <iostream>
 using namespace std;
