@@ -1,4 +1,5 @@
 // Parallel Directed Graph Initialization
+// GPU Parallel
 
 #include <cuda_runtime.h>
 #include <iostream>
