@@ -1,4 +1,4 @@
-# Python code to check if a given graph is Bipartite using BFS
+# Bipartite using BFS
 from collections import deque
 
 def is_bipartite( graph, start ):
