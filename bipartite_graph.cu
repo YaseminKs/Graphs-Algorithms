@@ -1,3 +1,5 @@
+// Simplified Version
+
 #include <iostream>
 #include <cuda_runtime.h>
 
